@@ -1,0 +1,11 @@
+open mailbox
+read leaflet
+n
+e
+open window
+enter
+w
+take all
+inventory
+quit
+y

@@ -1,0 +1,109 @@
+n
+e
+open window
+w
+take sack
+w
+take lamp
+take sword
+e
+turn on lamp
+up
+take rope
+down
+w
+move rug
+open trap door
+down
+n
+kill troll with sword
+kill troll with sword
+kill troll with sword
+drop sword
+e
+e
+e
+up
+e
+n
+n
+take screwdriver
+s
+s
+s
+sw
+s
+se
+e
+tie rope to railing
+climb down rope
+take torch
+turn off lamp
+s
+s
+d
+n
+rub mirror
+open sack
+take garlic
+n
+w
+n
+w
+n
+e
+put torch in basket
+turn on lamp
+n
+d
+take bracelet
+e
+ne
+se
+sw
+d
+d
+s
+take coal
+n
+u
+u
+n
+e
+s
+n
+u
+s
+put coal in basket
+put screwdriver in basket
+lower basket
+n
+d
+e
+ne
+se
+sw
+d
+d
+w
+drop all
+w
+take coal
+take screwdriver
+take torch
+s
+open lid
+put coal in machine
+close lid
+turn switch with screwdriver
+open lid
+take diamond
+n
+put diamond in basket
+put torch in basket
+put screwdriver in basket
+e
+take all
+score
+quit
+y

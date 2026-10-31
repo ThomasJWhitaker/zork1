@@ -1,0 +1,11 @@
+n
+e
+open window
+enter
+take bottle
+open bottle
+shake bottle
+drink water
+shake bottle
+close bottle
+shake bottle

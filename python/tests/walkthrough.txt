@@ -1,0 +1,127 @@
+verbose
+look
+examine mailbox
+open mailbox
+take leaflet
+read it
+drop leaflet
+s
+e
+open window
+enter
+look
+take all
+open sack
+look in sack
+take garlic and lunch
+eat lunch
+drink water
+w
+take lamp and sword
+take all but rug
+move rug
+open trap door
+turn on lamp
+d
+look
+n
+kill troll with sword
+kill troll with sword
+kill troll with sword
+kill troll with sword
+kill troll with sword
+kill troll with sword
+g
+g
+g
+take axe
+w
+e
+s
+e
+look
+take painting
+n
+d
+s
+e
+e
+take coffin
+w
+w
+n
+w
+s
+e
+up
+take painting
+w
+n
+w
+w
+open case
+put painting in case
+take
+lamp
+inventory
+diagnose
+score
+s
+s
+w
+n
+up
+climb tree
+take egg
+open egg
+down
+s
+e
+look
+w
+w
+w
+s
+s
+s
+north
+n
+n
+n
+n
+e
+s
+d
+take torch
+take bell
+take book
+read book
+ring bell
+light candles with match
+wave sceptre
+xyzzy
+plugh
+oops look
+hello sailor
+take
+throw sword at troll
+pray
+jump
+sing
+brief
+superbrief
+verbose
+take 3 from case
+put all in case
+open case
+close case
+unlock it
+attack me
+eat me
+look under rug
+kiss troll
+#random 5
+version
+score
+quit
+y

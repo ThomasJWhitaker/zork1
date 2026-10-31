@@ -1,0 +1,167 @@
+n
+n
+up
+take egg
+down
+s
+e
+open window
+w
+take sack
+w
+take lamp
+take sword
+open case
+put egg in case
+e
+turn on lamp
+up
+take rope
+down
+w
+move rug
+open trap door
+down
+n
+kill troll with sword
+kill troll with sword
+kill troll with sword
+drop sword
+e
+e
+e
+echo
+take bar
+up
+e
+n
+take match
+drop bar
+n
+take wrench
+take screwdriver
+push yellow button
+s
+s
+turn bolt with wrench
+drop wrench
+s
+sw
+s
+se
+e
+tie rope to railing
+d
+take torch
+turn off lamp
+s
+take bell
+e
+open coffin
+take sceptre
+w
+s
+take book
+open sack
+eat lunch
+put screwdriver in sack
+take candles
+d
+d
+ring bell
+take candles
+light match
+light candles with match
+read book
+s
+take skull
+n
+u
+n
+drop book
+drop candles
+drop matchbook
+rub mirror
+e
+d
+s
+take pump
+s
+s
+e
+d
+inflate plastic with pump
+drop pump
+put sceptre in boat
+board boat
+launch
+wait
+wait
+wait
+wait
+take buoy
+e
+disembark
+take sceptre
+take shovel
+ne
+dig in sand
+dig in sand
+dig in sand
+dig in sand
+take scarab
+drop shovel
+sw
+open buoy
+take emerald
+drop buoy
+s
+s
+wave sceptre
+w
+w
+take pot
+sw
+u
+u
+nw
+w
+w
+w
+put pot in case
+put emerald in case
+put skull in case
+put sceptre in case
+score
+open trap door
+d
+n
+take axe
+w
+s
+e
+u
+take coins
+take key
+sw
+e
+s
+se
+ulysses
+u
+kill thief with axe
+kill thief with axe
+kill thief with axe
+kill thief with axe
+look
+take bell
+n
+u
+pray
+n
+e
+inventory
+diagnose
+score
+quit
+y
